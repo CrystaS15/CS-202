@@ -1,0 +1,125 @@
+Executions Times for Sorting Algorithms Program.
+
+
+
+*************************************************
+Execution Test, 250000 numbers.
+
+./main 250000
+------------------------------------------------------------
+CS 202 - Assignment #10
+Sorting Algorithms.
+
+Enter Value: 
+Generating Data...
+  Set Size: 250000
+
+Bubble Sort...
+Bubble Sort took: 417257 milliseconds
+
+Selection Sort...
+Selection Sort took: 115392 milliseconds
+
+Quick Sort...
+Quick Sort took: 2390 milliseconds
+Error, epic Quick Sort fail.
+Do not pass go, do not collect score.
+
+Count Sort...
+Count Sort took: 15 milliseconds
+
+Bubble Sort (non-random data)...
+Bubble Sort (non-random data) took: 20 milliseconds
+
+Quick Sort (non-random data)...
+Quick Sort (non-random data) took: 2435 milliseconds
+
+Unsorted searches took: 18 milliseconds
+  Search stats:   Found: 5000  Not Found: 0
+
+Sorted searches took: 0 milliseconds
+  Search stats:   Found: 0  Not Found: 5000
+
+Game over, thanks for playing.
+
+*************************************************
+Execution Test, 500000 numbers.
+
+./main 500000
+------------------------------------------------------------
+CS 202 - Assignment #10
+Sorting Algorithms.
+
+Enter Value: 
+Generating Data...
+  Set Size: 500000
+
+Bubble Sort...
+Bubble Sort took: 1739099 milliseconds
+
+Selection Sort...
+Selection Sort took: 442783 milliseconds
+
+Quick Sort...
+Quick Sort took: 4143 milliseconds
+Error, epic Quick Sort fail.
+Do not pass go, do not collect score.
+
+Count Sort...
+Count Sort took: 17 milliseconds
+
+Bubble Sort (non-random data)...
+Bubble Sort (non-random data) took: 4 milliseconds
+
+Quick Sort (non-random data)...
+Quick Sort (non-random data) took: 4232 milliseconds
+
+Unsorted searches took: 53 milliseconds
+  Search stats:   Found: 5000  Not Found: 0
+
+Sorted searches took: 0 milliseconds
+  Search stats:   Found: 0  Not Found: 5000
+
+Game over, thanks for playing.
+
+*************************************************
+Execution Test, 750000 numbers.
+
+./main 750000
+------------------------------------------------------------
+CS 202 - Assignment #10
+Sorting Algorithms.
+
+Enter Value: 
+Generating Data...
+  Set Size: 750000
+
+Bubble Sort...
+Bubble Sort took: 4015844 milliseconds
+
+Selection Sort...
+Selection Sort took: 982344 milliseconds
+
+Quick Sort...
+Quick Sort took: 6532 milliseconds
+Error, epic Quick Sort fail.
+Do not pass go, do not collect score.
+
+Count Sort...
+Count Sort took: 29 milliseconds
+
+Bubble Sort (non-random data)...
+Bubble Sort (non-random data) took: 10 milliseconds
+
+Quick Sort (non-random data)...
+Quick Sort (non-random data) took: 5863 milliseconds
+
+Unsorted searches took: 26 milliseconds
+  Search stats:   Found: 5000  Not Found: 0
+
+Sorted searches took: 0 milliseconds
+  Search stats:   Found: 0  Not Found: 5000
+
+Game over, thanks for playing.
+
+*************************************************
